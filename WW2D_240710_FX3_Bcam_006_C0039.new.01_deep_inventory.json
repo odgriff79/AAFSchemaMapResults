@@ -1,0 +1,542 @@
+[
+  {
+    "name": "WW2D_240710_FX3_Bcam_006_C0039",
+    "mob_id": "urn:smpte:umid:060a2b34.01010100.01010f00.13000000.7c3e82b5.e3debf2c.b4845424.0ad71de1",
+    "properties": {
+      "MobAttributeList": [
+        {
+          "Value": 2,
+          "Name": "_VERSION"
+        },
+        {
+          "Value": 48000,
+          "Name": "_SAVED_AAF_AUDIO_RATE_NUM"
+        },
+        {
+          "Value": 1,
+          "Name": "_SAVED_AAF_AUDIO_RATE_DEN"
+        },
+        {
+          "Value": 0,
+          "Name": "_SAVED_AAF_AUDIO_LENGTH"
+        }
+      ],
+      "EssenceDescription": {
+        "MediaContainerGUID": "87a0584d-cafa-41f5-9a68-f0cadefdbb71",
+        "Locator": [
+          {
+            "URLString": "file://10.10.1.195/nearline/BLINK/BLINK_WORLD_WAR%20TWO%20DECODED_NEARLINE/01_RUSHES/2024_07_10/WW2D_240710_FX3_Bcam_006/M4ROOT%202/CLIP/WW2D_240710_FX3_Bcam_006_C0039.MP4"
+          }
+        ]
+      },
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "Drop": false,
+                "FPS": 25,
+                "Start": 272214,
+                "Length": 4320000,
+                "DataDefinition": {
+                  "Identification": "01030201-0100-0000-060e-2b3404010101",
+                  "Description": "Timecode data",
+                  "Name": "Timecode"
+                }
+              }
+            ],
+            "Length": 4320000,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 1,
+          "SlotName": ""
+        },
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "StartTime": 0,
+                "SourceMobSlotID": 0,
+                "SourceID": "urn:smpte:umid:00000000.00000000.00000000.00000000.00000000.00000000.00000000.00000000",
+                "Length": 4320000,
+                "DataDefinition": {
+                  "Identification": "01030202-0100-0000-060e-2b3404010101",
+                  "Description": "Picture data",
+                  "Name": "Picture"
+                }
+              }
+            ],
+            "Length": 4320000,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 2,
+          "SlotName": ""
+        },
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "StartTime": 0,
+                "SourceMobSlotID": 0,
+                "SourceID": "urn:smpte:umid:00000000.00000000.00000000.00000000.00000000.00000000.00000000.00000000",
+                "Length": 4320000,
+                "DataDefinition": {
+                  "Identification": "01030202-0200-0000-060e-2b3404010101",
+                  "Description": "Sound data",
+                  "Name": "Sound"
+                }
+              }
+            ],
+            "Length": 4320000,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 3,
+          "SlotName": ""
+        },
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "StartTime": 0,
+                "SourceMobSlotID": 0,
+                "SourceID": "urn:smpte:umid:00000000.00000000.00000000.00000000.00000000.00000000.00000000.00000000",
+                "Length": 4320000,
+                "DataDefinition": "<CircularReference>"
+              }
+            ],
+            "Length": 4320000,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 2,
+          "SlotID": 4,
+          "SlotName": ""
+        },
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "Drop": false,
+                "FPS": 25,
+                "Start": 974783,
+                "Length": 23736,
+                "DataDefinition": "<CircularReference>"
+              },
+              {
+                "Length": 4296264,
+                "DataDefinition": "<CircularReference>"
+              }
+            ],
+            "Length": 4320000,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 3,
+          "SlotID": 5,
+          "SlotName": ""
+        }
+      ],
+      "LastModified": "2024-09-24 09:15:46",
+      "CreationTime": "2024-08-12 15:24:06",
+      "Name": "WW2D_240710_FX3_Bcam_006_C0039",
+      "MobID": "urn:smpte:umid:060a2b34.01010100.01010f00.13000000.7c3e82b5.e3debf2c.b4845424.0ad71de1"
+    }
+  },
+  {
+    "name": "WW2D_240710_FX3_Bcam_006_C0039.new.01.Exported.01",
+    "mob_id": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.0d64b109.08538006.e92cf8f2.1e3b0548",
+    "properties": {
+      "ConvertFrameRate": false,
+      "MobAttributeList": [
+        {
+          "Value": 2,
+          "Name": "_VERSION"
+        },
+        {
+          "Value": 48000,
+          "Name": "_SAVED_AAF_AUDIO_RATE_NUM"
+        },
+        {
+          "Value": 1,
+          "Name": "_SAVED_AAF_AUDIO_RATE_DEN"
+        },
+        {
+          "Value": 45573120,
+          "Name": "_SAVED_AAF_AUDIO_LENGTH"
+        },
+        {
+          "TaggedValueAttributeList": [
+            {
+              "Value": "WW2D_240710_FX3_Bcam_006",
+              "Name": "_IMPORTDISKLAB"
+            }
+          ],
+          "Value": "__AttributeList",
+          "Name": "_IMPORTSETTING"
+        },
+        {
+          "Value": 0,
+          "Name": "_IGNOREALPHA"
+        },
+        {
+          "Value": 1,
+          "Name": "_INVERTALPHA"
+        },
+        {
+          "Value": 1,
+          "Name": "_BOUNDS_REFORMATTING_OPTION"
+        },
+        {
+          "Value": 65280,
+          "Name": "_COLOR_R"
+        },
+        {
+          "Value": 0,
+          "Name": "_COLOR_G"
+        },
+        {
+          "Value": 29440,
+          "Name": "_COLOR_B"
+        },
+        {
+          "Value": 1723488961,
+          "Name": "_GEN"
+        },
+        {
+          "Value": 0,
+          "Name": "_USER_POS"
+        },
+        {
+          "PortableObjectClassID": 1296256338,
+          "PortableObject": {
+            "Mob Reference Position": 0,
+            "Mob Reference MobID": "urn:smpte:umid:060a2b34.01010100.01010f00.13000000.93f9bfa3.22b91174.d14b18c3.42dac81a"
+          },
+          "Value": "__PortableObject",
+          "Name": "_SYNC"
+        },
+        {
+          "Value": 2,
+          "Name": "_MIXMATCH_FIELDMOTION_TAG"
+        },
+        {
+          "Value": 1,
+          "Name": "_SPANNEDUSINGFILLER"
+        }
+      ],
+      "UserComments": [
+        {
+          "Value": "QTFF",
+          "Name": "Video"
+        },
+        {
+          "Value": "WW2D_240710_FX3_Bcam_006",
+          "Name": "TapeID"
+        }
+      ],
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "StartTime": 0,
+                "SourceMobSlotID": 1,
+                "SourceID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a674847.05348006.398fecb1.d742a090",
+                "Length": 23736,
+                "DataDefinition": {
+                  "Identification": "01030202-0100-0000-060e-2b3404010101",
+                  "Description": "Picture data",
+                  "Name": "Picture"
+                }
+              }
+            ],
+            "Length": 23736,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 1,
+          "SlotName": ""
+        },
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "StartTime": 0,
+                "SourceMobSlotID": 1,
+                "SourceID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a674895.05348006.6825ecb1.d742a090",
+                "Length": 23736,
+                "DataDefinition": {
+                  "Identification": "01030202-0200-0000-060e-2b3404010101",
+                  "Description": "Sound data",
+                  "Name": "Sound"
+                }
+              }
+            ],
+            "Length": 23736,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 2,
+          "SlotName": ""
+        },
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Components": [
+              {
+                "StartTime": 0,
+                "SourceMobSlotID": 1,
+                "SourceID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a6748fc.05348006.3299ecb1.d742a090",
+                "Length": 23736,
+                "DataDefinition": "<CircularReference>"
+              }
+            ],
+            "Length": 23736,
+            "DataDefinition": "<CircularReference>"
+          },
+          "PhysicalTrackNumber": 2,
+          "SlotID": 3,
+          "SlotName": ""
+        }
+      ],
+      "LastModified": "2025-06-27 17:03:38",
+      "CreationTime": "2025-06-27 17:08:04",
+      "Name": "WW2D_240710_FX3_Bcam_006_C0039.new.01.Exported.01",
+      "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.0d64b109.08538006.e92cf8f2.1e3b0548"
+    }
+  },
+  {
+    "name": "",
+    "mob_id": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a674847.05348006.398fecb1.d742a090",
+    "properties": {
+      "MobAttributeList": [
+        {
+          "Value": "BLINK_WWII DECODED_TECH",
+          "Name": "_PJ"
+        }
+      ],
+      "EssenceDescription": {
+        "OffsetToFrameIndexes64": 4472638439,
+        "DataOffset": 393216,
+        "FrameIndexByteOrder": 18761,
+        "FrameSampleSize": 0,
+        "ImageSize": 177274880,
+        "SourceBox": "{'PositionX': AAFRational(-800, 1), 'PositionY': AAFRational(-1370, 3), 'Width': AAFRational(1600, 1), 'Height': AAFRational(2720, 3)}",
+        "EssenceBox": "{'PositionX': AAFRational(-800, 1), 'PositionY': AAFRational(-450, 1), 'Width': AAFRational(1600, 1), 'Height': AAFRational(900, 1)}",
+        "ValidBox": "{'PositionX': AAFRational(-800, 1), 'PositionY': AAFRational(-450, 1), 'Width': AAFRational(1600, 1), 'Height': AAFRational(900, 1)}",
+        "ColorRange": 225,
+        "WhiteReferenceLevel": 255,
+        "BlackReferenceLevel": 0,
+        "ColorSiting": "CoSiting",
+        "VerticalSubsampling": 1,
+        "HorizontalSubsampling": 2,
+        "ComponentWidth": 8,
+        "ImageAlignmentFactor": 4096,
+        "CodingEquations": "CodingEquations_ITU709",
+        "ImageAspectRatio": "16/9",
+        "VideoLineMap": [
+          "0"
+        ],
+        "FrameLayout": "FullFrame",
+        "DisplayYOffset": 0,
+        "DisplayXOffset": 0,
+        "DisplayWidth": 1920,
+        "DisplayHeight": 1080,
+        "SampledYOffset": 0,
+        "SampledXOffset": 0,
+        "SampledWidth": 1920,
+        "SampledHeight": 1080,
+        "StoredWidth": 1920,
+        "StoredHeight": 1080,
+        "Compression": "04010202-7128-0000-060e-2b340401010d",
+        "ContainerFormat": {
+          "Identification": "4b464141-000d-4d4f-060e-2b34010101ff",
+          "Description": "",
+          "Name": "MXF"
+        },
+        "Length": 23736,
+        "SampleRate": "25"
+      },
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "StartTime": 0,
+            "SourceMobSlotID": 2,
+            "SourceID": "urn:smpte:umid:060a2b34.01010100.01010f00.13000000.7c3e82b5.e3debf2c.b4845424.0ad71de1",
+            "Length": 23736,
+            "DataDefinition": {
+              "Identification": "01030202-0100-0000-060e-2b3404010101",
+              "Description": "Picture data",
+              "Name": "Picture"
+            }
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 1,
+          "SlotName": ""
+        }
+      ],
+      "LastModified": "2025-06-19 08:17:35",
+      "CreationTime": "2024-08-12 18:56:01",
+      "Name": "",
+      "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a674847.05348006.398fecb1.d742a090"
+    }
+  },
+  {
+    "name": "",
+    "mob_id": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a674895.05348006.6825ecb1.d742a090",
+    "properties": {
+      "MobAttributeList": [
+        {
+          "Value": "BLINK_WWII DECODED_TECH",
+          "Name": "_PJ"
+        },
+        {
+          "TaggedValueAttributeList": [
+            {
+              "Value": 48000,
+              "Name": "_AUDIO_LOWEST_SAMPLE_RATE"
+            },
+            {
+              "Value": 16,
+              "Name": "_AUDIO_LOWEST_SAMPLE_SIZE"
+            }
+          ],
+          "Value": "__AttributeList",
+          "Name": "_QUALITY_CONVERSION_BUNDLE"
+        }
+      ],
+      "EssenceDescription": {
+        "DataOffset": 266240,
+        "AverageBPS": 144000,
+        "SequenceOffset": 0,
+        "BlockAlign": 3,
+        "QuantizationBits": 24,
+        "DialNorm": 27,
+        "AudioRefLevel": -20,
+        "ElectroSpatial": "ElectroSpatialFormulation_SingleChannelMode",
+        "Locked": false,
+        "AudioSamplingRate": "48000",
+        "Channels": 1,
+        "ContainerFormat": {
+          "Identification": "4b464141-000d-4d4f-060e-2b34010101ff",
+          "Description": "",
+          "Name": "MXF"
+        },
+        "Length": 45573120,
+        "SampleRate": "48000"
+      },
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "StartTime": 0,
+            "SourceMobSlotID": 3,
+            "SourceID": "urn:smpte:umid:060a2b34.01010100.01010f00.13000000.7c3e82b5.e3debf2c.b4845424.0ad71de1",
+            "Length": 23736,
+            "DataDefinition": {
+              "Identification": "01030202-0200-0000-060e-2b3404010101",
+              "Description": "Sound data",
+              "Name": "Sound"
+            }
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 1,
+          "SlotName": ""
+        }
+      ],
+      "LastModified": "2024-08-12 19:01:42",
+      "CreationTime": "2024-08-12 18:56:01",
+      "Name": "",
+      "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a674895.05348006.6825ecb1.d742a090"
+    }
+  },
+  {
+    "name": "",
+    "mob_id": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a6748fc.05348006.3299ecb1.d742a090",
+    "properties": {
+      "MobAttributeList": [
+        {
+          "Value": "BLINK_WWII DECODED_TECH",
+          "Name": "_PJ"
+        },
+        {
+          "TaggedValueAttributeList": [
+            {
+              "Value": 48000,
+              "Name": "_AUDIO_LOWEST_SAMPLE_RATE"
+            },
+            {
+              "Value": 16,
+              "Name": "_AUDIO_LOWEST_SAMPLE_SIZE"
+            }
+          ],
+          "Value": "__AttributeList",
+          "Name": "_QUALITY_CONVERSION_BUNDLE"
+        }
+      ],
+      "EssenceDescription": {
+        "DataOffset": 266240,
+        "AverageBPS": 144000,
+        "SequenceOffset": 0,
+        "BlockAlign": 3,
+        "QuantizationBits": 24,
+        "DialNorm": 27,
+        "AudioRefLevel": -20,
+        "ElectroSpatial": "ElectroSpatialFormulation_SingleChannelMode",
+        "Locked": false,
+        "AudioSamplingRate": "48000",
+        "Channels": 1,
+        "ContainerFormat": {
+          "Identification": "4b464141-000d-4d4f-060e-2b34010101ff",
+          "Description": "",
+          "Name": "MXF"
+        },
+        "Length": 45573120,
+        "SampleRate": "48000"
+      },
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "StartTime": 0,
+            "SourceMobSlotID": 4,
+            "SourceID": "urn:smpte:umid:060a2b34.01010100.01010f00.13000000.7c3e82b5.e3debf2c.b4845424.0ad71de1",
+            "Length": 23736,
+            "DataDefinition": {
+              "Identification": "01030202-0200-0000-060e-2b3404010101",
+              "Description": "Sound data",
+              "Name": "Sound"
+            }
+          },
+          "PhysicalTrackNumber": 2,
+          "SlotID": 1,
+          "SlotName": ""
+        }
+      ],
+      "LastModified": "2024-08-12 19:03:44",
+      "CreationTime": "2024-08-12 18:56:01",
+      "Name": "",
+      "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.1a6748fc.05348006.3299ecb1.d742a090"
+    }
+  }
+]

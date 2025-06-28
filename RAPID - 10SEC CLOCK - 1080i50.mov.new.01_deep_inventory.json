@@ -1,0 +1,249 @@
+[
+  {
+    "name": "RAPID - 10SEC CLOCK - 1080i50.mov.new.01.Exported.01",
+    "mob_id": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.0d4c987c.08538006.271ff8f2.1e3b0548",
+    "properties": {
+      "ConvertFrameRate": false,
+      "MobAttributeList": [
+        {
+          "TaggedValueAttributeList": [
+            {
+              "Value": 0,
+              "Name": "_IMPORTPICTSEQ"
+            },
+            {
+              "Value": 1,
+              "Name": "_DOMINANCE"
+            },
+            {
+              "Value": 0,
+              "Name": "_IGNOREALPHA"
+            },
+            {
+              "Value": 1,
+              "Name": "_INVERTALPHA"
+            },
+            {
+              "Value": 1,
+              "Name": "_IMPORTASPECT"
+            },
+            {
+              "Value": 1,
+              "Name": "_COLORLEVEL"
+            },
+            {
+              "PortableObjectClassID": 1464421958,
+              "PortableObject": {
+                "URLString": "file:///J%3A/09_EDITORS/+%20RAPID%20CLOCK/RAPID%20-%2010SEC%20CLOCK%20-%201080i50.mov"
+              },
+              "Value": "__PortableObject",
+              "Name": "_SRCFILE"
+            },
+            {
+              "Value": 0,
+              "Name": "_ATN_IMPORT_AUD_BWF_MONO_GROUP"
+            }
+          ],
+          "Value": "__AttributeList",
+          "Name": "_IMPORTSETTING"
+        },
+        {
+          "Value": 1,
+          "Name": "_COLOR_NONE"
+        },
+        {
+          "Value": 0,
+          "Name": "_GEN"
+        },
+        {
+          "PortableObjectClassID": 1296256338,
+          "PortableObject": {
+            "Mob Reference Position": 0,
+            "Mob Reference MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.4372251b.05018006.85dd244b.fe51a008"
+          },
+          "Value": "__PortableObject",
+          "Name": "_SYNC"
+        },
+        {
+          "Value": 0,
+          "Name": "_USER_POS"
+        }
+      ],
+      "UserComments": [
+        {
+          "Value": "J:\\09_EDITORS\\+ RAPID CLOCK\\RAPID - 10SEC CLOCK - 1080i50.mov",
+          "Name": "UNC Path"
+        }
+      ],
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "StartTime": 0,
+            "SourceMobSlotID": 1,
+            "SourceID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.f95f9ce5.08518006.b399f8f2.1e3b0548",
+            "Length": 200,
+            "DataDefinition": {
+              "Identification": "01030202-0100-0000-060e-2b3404010101",
+              "Description": "Picture data",
+              "Name": "Picture"
+            }
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 1,
+          "SlotName": "RAPID - 10SEC CLOCK - 1080i50.mov"
+        }
+      ],
+      "LastModified": "2025-06-27 17:03:38",
+      "CreationTime": "2025-06-27 17:07:32",
+      "Name": "RAPID - 10SEC CLOCK - 1080i50.mov.new.01.Exported.01",
+      "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.0d4c987c.08538006.271ff8f2.1e3b0548"
+    }
+  },
+  {
+    "name": "RAPID - 10SEC CLOCK - 1080i50.mov",
+    "mob_id": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.437227a7.05018006.e1a1244b.fe51a008",
+    "properties": {
+      "MobAttributeList": [
+        {
+          "Value": "KM_CDIY_S8_RX01",
+          "Name": "_PJ"
+        }
+      ],
+      "EssenceDescription": {
+        "Locator": [
+          {
+            "URLString": "file:///O%3A/+%20RAPID%20CLOCK/RAPID%20-%2010SEC%20CLOCK%20-%201080i50.mov"
+          }
+        ]
+      },
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "StartTime": 0,
+            "SourceMobSlotID": 0,
+            "SourceID": "urn:smpte:umid:00000000.00000000.00000000.00000000.00000000.00000000.00000000.00000000",
+            "Length": 250,
+            "DataDefinition": {
+              "Identification": "01030202-0100-0000-060e-2b3404010101",
+              "Description": "Picture data",
+              "Name": "Picture"
+            }
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 1,
+          "SlotName": ""
+        },
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "Drop": false,
+            "FPS": 25,
+            "Start": 899750,
+            "Length": 250,
+            "DataDefinition": {
+              "Identification": "01030201-0100-0000-060e-2b3404010101",
+              "Description": "Timecode data",
+              "Name": "Timecode"
+            }
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 2,
+          "SlotName": ""
+        }
+      ],
+      "LastModified": "2025-04-15 14:00:32",
+      "CreationTime": "2024-07-10 10:16:23",
+      "Name": "RAPID - 10SEC CLOCK - 1080i50.mov",
+      "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.437227a7.05018006.e1a1244b.fe51a008"
+    }
+  },
+  {
+    "name": "",
+    "mob_id": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.f95f9ce5.08518006.b399f8f2.1e3b0548",
+    "properties": {
+      "MobAttributeList": [
+        {
+          "Value": "ON_BLINK_WORLD_WAR_2_DECODED_RX01",
+          "Name": "_PJ"
+        },
+        {
+          "Value": "060a2b340101010501010f1013-000000-437227a005018006-5ea5244bfe51-a008",
+          "Name": "_ORIGINAL_FILEMOB_ID"
+        }
+      ],
+      "EssenceDescription": {
+        "OffsetToFrameIndexes64": 184549863,
+        "DataOffset": 4194304,
+        "FrameIndexByteOrder": 18761,
+        "FrameSampleSize": 917504,
+        "ImageSize": 183500800,
+        "ResolutionID": 1241,
+        "SourceBox": "{'PositionX': AAFRational(-800, 1), 'PositionY': AAFRational(-450, 1), 'Width': AAFRational(1600, 1), 'Height': AAFRational(900, 1)}",
+        "EssenceBox": "{'PositionX': AAFRational(-800, 1), 'PositionY': AAFRational(-450, 1), 'Width': AAFRational(1600, 1), 'Height': AAFRational(900, 1)}",
+        "ValidBox": "{'PositionX': AAFRational(-800, 1), 'PositionY': AAFRational(-450, 1), 'Width': AAFRational(1600, 1), 'Height': AAFRational(900, 1)}",
+        "ColorRange": 897,
+        "WhiteReferenceLevel": 940,
+        "BlackReferenceLevel": 64,
+        "ColorSiting": "CoSiting",
+        "VerticalSubsampling": 1,
+        "HorizontalSubsampling": 2,
+        "ComponentWidth": 10,
+        "ImageAlignmentFactor": 8192,
+        "CodingEquations": "CodingEquations_ITU709",
+        "ImageAspectRatio": "16/9",
+        "VideoLineMap": [
+          "21",
+          "584"
+        ],
+        "FrameLayout": "SeparateFields",
+        "DisplayYOffset": 0,
+        "DisplayXOffset": 0,
+        "DisplayWidth": 1920,
+        "DisplayHeight": 540,
+        "SampledYOffset": 0,
+        "SampledXOffset": 0,
+        "SampledWidth": 1920,
+        "SampledHeight": 540,
+        "StoredWidth": 1920,
+        "StoredHeight": 540,
+        "Compression": "04010202-7107-0000-060e-2b340401010a",
+        "ContainerFormat": {
+          "Identification": "4b464141-000d-4d4f-060e-2b34010101ff",
+          "Description": "",
+          "Name": "MXF"
+        },
+        "Length": 200,
+        "SampleRate": "25"
+      },
+      "Slots": [
+        {
+          "Origin": 0,
+          "EditRate": "25",
+          "Segment": {
+            "StartTime": 0,
+            "SourceMobSlotID": 1,
+            "SourceID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.437227a7.05018006.e1a1244b.fe51a008",
+            "Length": 200,
+            "DataDefinition": {
+              "Identification": "01030202-0100-0000-060e-2b3404010101",
+              "Description": "Picture data",
+              "Name": "Picture"
+            }
+          },
+          "PhysicalTrackNumber": 1,
+          "SlotID": 1,
+          "SlotName": ""
+        }
+      ],
+      "LastModified": "2025-06-25 15:13:07",
+      "CreationTime": "2025-06-25 15:13:06",
+      "Name": "",
+      "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.f95f9ce5.08518006.b399f8f2.1e3b0548"
+    }
+  }
+]
