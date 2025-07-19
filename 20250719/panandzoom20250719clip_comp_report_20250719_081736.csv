@@ -1,0 +1,10 @@
+Timeline Summary
+Timeline Name,panandzoom20250719clip.Exported.01
+Timeline Edit Rate,25.0 (NDF)
+Timeline Start,10:01:19:24
+Timeline Length,00:00:05:00 (125 frames)
+Total number of video clips as events,1
+Total number of sources,1
+
+Event,Event Name,Clip Name,Source File Name,Source File Path,DiskLabel,TapeID,SourceMobID,TrackID,Source Clip EditRate,Timeline Start TC,Source Clip start time code,Source Clip offset,StartTime,End Time,Event Length,Source Clip start (frames),Source Clip offset (frames),StartTime (frames)
+1,ISS_ARC_122_MST_NASA_MirOverEarthFromSTS-71_1995_JourneyBegins.jpg,ISS_ARC_122_MST_NASA_MirOverEarthFromSTS-71_1995_JourneyBegins.jpg,ISS_ARC_122_MST_NASA_MirOverEarthFromSTS-71_1995_JourneyBegins.jpg,/nearline/BLINK/BLINK_TOTSS_S1_NEARLINE/02_ARCHIVE/2025_03_11/JOURNEY BEGINS/ISS Archive ingest 11.03.25,,,urn:smpte:umid:060a2b34.01010105.01010f10.13000000.7420c4ff.07458006.11ecd050.99fb6ddb,N/A,25.0,10:01:19:24,01:00:00:00,00:00:04:18,01:00:04:18,01:00:09:18,125,90000,118,90118

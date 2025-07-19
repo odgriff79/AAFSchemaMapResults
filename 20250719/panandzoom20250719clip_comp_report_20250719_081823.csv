@@ -1,0 +1,10 @@
+Timeline Summary
+Timeline Name,panandscan20250719.Exported.01
+Timeline Edit Rate,25.0 (NDF)
+Timeline Start,10:01:14:24
+Timeline Length,00:00:05:00 (125 frames)
+Total number of video clips as events,1
+Total number of sources,1
+
+Event,Event Name,Clip Name,Source File Name,Source File Path,DiskLabel,TapeID,SourceMobID,TrackID,Source Clip EditRate,Timeline Start TC,Source Clip start time code,Source Clip offset,StartTime,End Time,Event Length,Source Clip start (frames),Source Clip offset (frames),StartTime (frames)
+1,D007C001_250219NB.MP4,D007C001_250219NB.MP4,D007C001_250219NB.MP4,/nearline/BLINK/BLINK_TOTSS_S1_NEARLINE/01_RUSHES/2025_02_20/ISS_250220_FX3_005/Untitled/M4ROOT/CLIP,ISS_250220_FX3_005,ISS_250220_FX3_005,urn:smpte:umid:060a2b34.01010105.01010f10.13000000.185c128e.07398006.7095ecb1.d733330a,N/A,25.0,10:01:14:24,15:10:44:16,00:13:17:21,15:24:02:12,15:24:07:12,125,1366116,19946,1386062
